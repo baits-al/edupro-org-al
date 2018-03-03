@@ -339,7 +339,7 @@ She worked at Pied Piper for years until they went belly up."""
   [params.contact]
     enable = true
     title = "Contact us"
-    subtitle  = "Qendra e Trainimit Profesional,<br>Rruga \"Driloni\", <br>Pogradec Tel/Fax: +355 832 3707, <br>Tirane  tel  04 235258,<br>Mobil: +355 692090242  <br>E-Mail: tanishkembi@yahoo.com"
+    subtitle  = "Qendra e Trainimit Profesional,<br>Rruga \"Driloni\", <br>Pogradec, Albania <br>Tel: +355 832 3707, <br>+355 4 2235258,<br>Cel: +355 692090242  <br>E-Mail: info@edupro.org.al"
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a
