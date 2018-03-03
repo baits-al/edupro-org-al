@@ -1,12 +1,12 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "/"
 title = "EduPRO"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
 [params]
   
-  custom_css = ["css/custom1.css", "css/custom2.css"]
+  custom_css = ["css/custom1.css", "css/custom2.css", "css/style.css"]
 
   # Meta
   author = ""
@@ -14,7 +14,7 @@ theme = "hugo-elate-theme"
   email = ""
   # Navigation
   [params.navigation]
-    brand = "Elate"
+    brand = "EDUPRO"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
