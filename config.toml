@@ -84,45 +84,63 @@ googleAnalytics = ""
   [params.services]
     enable = true
     title = "Programs"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = "We are focusing at NINE, while growing daily into new areas"
 
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
+      icon = "fa-wrench"
       title = "Vocational Training"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      description = "The program aimed at preparing the young generations for the labor market. We train the chefs, mechanics, hospitality workers of tomorrow providing them a secure mean of revenue-generation."
+      url = ""
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Educational Lobbying"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      icon = "fa-street-view"
+      title = "Education Lobbying"
+      description = "We run a complex program aimed at improving education in general. We focus on lobbying for better teacher trainings and compensations, curriculum development, academic standards and standardized testing, just to name a few."
+      url = ""
 
     [[params.services.row.list]]
-      icon = "fa-lock"
+      icon = "fa-map-signs"
       title = "School Counseling"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      description = "We have prepared a program aiming to prepare school counselors as vital members of the education team, who would help students in the areas of academic achievement, personal and social development and career development."
+      url = ""
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
-      title = "'Train the teacher'"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      icon = "fa-edit"
+      title = "TRAIN THE TEACHER"
+      description = "This program focuses on the main player of the educational system: the teacher who facilitates learning and the acquisition of knowledge. We aim to assist by organizing various events of knowledge sharing and best practices."
+      url = ""
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
+      icon = "fa-ban"
       title = "AIDS Prevention"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      description = "This special program targets the young students of elementary & high schools with proper information, training and various activities focusing on a better understanding of the issue and measures related to its’ prevention."
+      url = ""
 
     [[params.services.row.list]]
-      icon = "fa-lock"
+      icon = "fa-graduation-cap"
       title = "School Preparation"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      description = "This is a program which aims to transform the kindergarten environment into a safe space where little children get to acquire the first basic knowledge needed for the upcoming school participation, thus facilitating the transition."
+      url = ""
+
+    [[params.services.row.list]]
+      icon = "fa-tree"
+      title = "Environment Protection"
+      description = "Out of the great necessity to contribute to the society, we have designed this program aiming to provide the proper guidance and training helping maintain compliance with environmental laws and regulations, minimizing risk."
+      url = ""
+
+    [[params.services.row.list]]
+      icon = "fa-strikethrough"
+      title = "Social Issues"
+      description = "Through this program we aim to invest into children's social and emotional needs as they are closely connected to their academic advancement. We aim to support initiatives aimed at increasing the skills and benefits of child-care professionals."
+      url = ""
+
+    [[params.services.row.list]]
+      icon = "fa-comments"
+      title = "Local & Central government intermediating"
+      description = "We have grouped under the same program umbrella a team of experts with a rich network both in the local and central government, thus placing at the disposal of improving education a vast knowledge and experience that maximizes benefits."
+      url = ""
 
   # Portfolio section
   [params.portfolio]
