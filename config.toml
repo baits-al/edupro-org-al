@@ -17,7 +17,7 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
+  name = "EduPro"
   description = "Your description"
 
   # Link custom assets relative to /static
@@ -345,13 +345,17 @@ She worked at Pied Piper for years until they went belly up."""
         logo = "usaid.png"
         link = "https://www.usaid.gov/albania"
 
+ #     [[params.clients]]
+ #       logo = "bfdw.png"
+ #       link = "https://www.brot-fuer-die-welt.de/en/"
+
       [[params.clients]]
-        logo = "bfdw.png"
-        link = "https://www.brot-fuer-die-welt.de/en/"
+        logo = "eed.png"
+        link = "http://www.eed.de/en/"
 
       [[params.clients]]
         logo = "globalhand.png"
-        link = "https://www.globalhand.org/en"
+        link = "https://www.globalhand.org/en/organisations/24895"
 
       [[params.clients]]
         logo = "icco.png"
